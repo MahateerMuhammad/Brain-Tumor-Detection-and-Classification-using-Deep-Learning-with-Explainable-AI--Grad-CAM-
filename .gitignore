@@ -1,0 +1,10 @@
+.DS_Store
+
+# Raw dataset folders
+Training/
+Testing/
+
+# Derived dataset copies
+data/raw/
+data/processed/
+data/augmented/
