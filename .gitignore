@@ -8,3 +8,11 @@ Testing/
 data/raw/
 data/processed/
 data/augmented/
+
+# Trained model weights (too large for GitHub — store locally or use cloud storage)
+*.keras
+*.h5
+*.pkl
+*.pt
+*.pth
+models/
